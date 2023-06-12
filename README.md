@@ -4,6 +4,12 @@ A new Flutter project.
 
 ## Getting Started
 
+    1. Run 'flutter pub get' get
+    2. Connect Firebase to your app
+    3. Run the app 'flutter run'
+
+## Adjust Demention as you want - some deveices not adjest width and height correclty because this is an old project and height and with not set for diffrent deivices
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
