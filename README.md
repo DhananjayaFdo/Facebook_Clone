@@ -8,7 +8,9 @@ A new Flutter project.
     2. Connect Firebase to your app
     3. Run the app 'flutter run'
 
-## Adjust Dimension as you want - some devices not adjust width and height correctly because this is an old project and height and with not set for different devices
+## Adjust Dimension as you want
+
+    * some devices not adjust width and height correctly because this is an old project and height and with not set for different devices
 
 This project is a starting point for a Flutter application.
 
